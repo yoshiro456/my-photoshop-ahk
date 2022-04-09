@@ -7,6 +7,11 @@ install လုပ်ပါ
 Shortcut ပြောင်းချင်ရင် `shotcut.ahk` ကို Notepad နဲ့ ဖွင့်ပြီး  
 ပြောင်းချင်တဲ့ Shotcut ဥပမာ `x::[` ထဲက `::` ကိုချန်ထားပါ `x` ကို ဖျက်ပြီးတခြားဟာပြောင်လို့ရပါပြီ
 
+# Config Photoshop
+### Color Picker သုံးဖို့ Photoshop ရဲ့ original shotcut ပြောင်းဖို့လိုပါတယ်
+`Ctrl+Alt+Shift+K`တွဲနိုပ်ပါ ဒီလိုပေါ်လာပါမယ်
+![img](./foreground-color-picker.png)  
+`Forgeground Color Picker` ကို `n` ပေးလိုက်ပါ OK သုံးလို့ရပါပြီ
 
 # အသုံးပြုနည်း
 
@@ -18,3 +23,4 @@ Shortcut ပြောင်းချင်ရင် `shotcut.ahk` ကို Note
 `d` - Layer ဖျက်  
 `w` - Layer အပေါ်တခုသွား  
 `s` - Layer အောက်တခုသွား  
+`t` - Color Picker ဒီ shotcut သုံးဖို့ရာ photoshop setting ပြောင်းဖို့လိုပါတယ် [ဒီမှာ](#config-photoshop) ကြည့်ပါ
