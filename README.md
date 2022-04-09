@@ -10,11 +10,11 @@ Shortcut ပြောင်းချင်ရင် `shotcut.ahk` ကို Note
 
 # အသုံးပြုနည်း
 
-`` ` `` - Shotcut ကို ပိတ်ဖွင့်လုပ်
-`z` - Undo ကို ctrl နိုပ်စရာမလို
-`x` - Brush size ကို သေးအောင်လုပ်
-`c` - Brush size ကြီးအောင်လုပ်
-`a` - Layer အသစ်လုပ်
-`d` - Layer ဖျက်
-`w` - Layer အပေါ်တခုသွား
-`s` - Layer အောက်တခုသွား
+`` ` `` - Shotcut ကို ပိတ်ဖွင့်လုပ်  
+`z` - Undo ကို ctrl နိုပ်စရာမလို  
+`x` - Brush size ကို သေးအောင်လုပ်  
+`c` - Brush size ကြီးအောင်လုပ်  
+`a` - Layer အသစ်လုပ်  
+`d` - Layer ဖျက်  
+`w` - Layer အပေါ်တခုသွား  
+`s` - Layer အောက်တခုသွား  
