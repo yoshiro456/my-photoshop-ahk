@@ -24,4 +24,7 @@ w::send {alt down}]{alt up}
 ; Navigate To Down Layer
 s::send {alt down}[{alt up}
 
+; Color picker
+t::n
+
 #IfWinActive
