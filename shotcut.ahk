@@ -27,4 +27,7 @@ s::send {alt down}[{alt up}
 ; Color picker
 t::n
 
+; Flip horizontal canvas
+v::F2
+
 #IfWinActive
