@@ -8,10 +8,15 @@ Shortcut ပြောင်းချင်ရင် `shotcut.ahk` ကို Note
 ပြောင်းချင်တဲ့ Shotcut ဥပမာ `x::[` ထဲက `::` ကိုချန်ထားပါ `x` ကို ဖျက်ပြီးတခြားဟာပြောင်လို့ရပါပြီ
 
 # Config Photoshop
-### Color Picker သုံးဖို့ Photoshop ရဲ့ original shotcut ပြောင်းဖို့လိုပါတယ်
+## 1. Color Picker Shotcut  
+ဒီshotcut သုံးဖို့ Photoshop ရဲ့ original shotcut ပြောင်းဖို့လိုပါတယ်
 `Ctrl+Alt+Shift+K`တွဲနိုပ်ပါ ဒီလိုပေါ်လာပါမယ်
 ![img](./foreground-color-picker.png)  
 `Forgeground Color Picker` ကို `n` ပေးလိုက်ပါ OK သုံးလို့ရပါပြီ
+## 2. Flip Horizontal Canvas
+ဒီshotcut သုံးဖို့ Photoshop ရဲ့ original shotcut ပြောင်းဖို့လိုပါတယ်
+[Youtube](https://www.youtube.com/watch?v=HJDgXd6IDZE) မှာ ပြောင်းဖို့ကြည့်ပါ
+
 
 # အသုံးပြုနည်း
 
@@ -23,4 +28,5 @@ Shortcut ပြောင်းချင်ရင် `shotcut.ahk` ကို Note
 `d` - Layer ဖျက်  
 `w` - Layer အပေါ်တခုသွား  
 `s` - Layer အောက်တခုသွား  
-`t` - Color Picker ဒီ shotcut သုံးဖို့ရာ photoshop setting ပြောင်းဖို့လိုပါတယ် [ဒီမှာ](#config-photoshop) ကြည့်ပါ
+`t` - Color Picker ဒီ shotcut သုံးဖို့ရာ photoshop setting ပြောင်းဖို့လိုပါတယ် [ဒီမှာ](#1-color-picker) ကြည့်ပါ
+`v` - Canvas ကိုမှန်တချပ်လို ပြောင်းဖို့ photoshop setting ကို ပြောင်းဖို့လိုပါတယ် [ဒီမှာ](#2-config-photoshop) ကြည့်ပါ
