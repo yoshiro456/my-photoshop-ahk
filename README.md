@@ -28,5 +28,5 @@ Shortcut ပြောင်းချင်ရင် `shotcut.ahk` ကို Note
 `d` - Layer ဖျက်  
 `w` - Layer အပေါ်တခုသွား  
 `s` - Layer အောက်တခုသွား  
-`t` - Color Picker ဒီ shotcut သုံးဖို့ရာ photoshop setting ပြောင်းဖို့လိုပါတယ် [ဒီမှာ](#1-color-picker) ကြည့်ပါ
+`t` - Color Picker ဒီ shotcut သုံးဖို့ရာ photoshop setting ပြောင်းဖို့လိုပါတယ် [ဒီမှာ](#1-color-picker) ကြည့်ပါ  
 `v` - Canvas ကိုမှန်တချပ်လို ပြောင်းဖို့ photoshop setting ကို ပြောင်းဖို့လိုပါတယ် [ဒီမှာ](#2-config-photoshop) ကြည့်ပါ
