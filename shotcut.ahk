@@ -1,33 +1,33 @@
-#IfWinActive ahk_class Photoshop
+#HotIf WinActive("ahk_class Photoshop")
+	; Toggle Shotcut On/Off
+	#SuspendExempt
+	`::Suspend
+	#SuspendExempt False
+	
+	; Undo without Ctrl if you are lazy
+	z::Send "{ctrl down}z{ctrl up}"
 
-; Toggle Shotcut On/Off
-`::Suspend
+	; Decrease brush size
+	x::[
 
-; Undo without Ctrl if you are lazy
-z::send {ctrl down}z{ctrl up}
+	; Increase brush size
+	c::]
 
-; Decrease brush size
-x::[
+	; Create new layer
+	a::Send "{ctrl down}{alt down}{shift down}n{shift up}{alt up}{ctrl up}"
 
-; Increase brush size
-c::]
+	; Delete selected layer
+	d::Delete
 
-; Create new layer
-a::send {ctrl down}{alt down}{shift down}n{shift up}{alt up}{ctrl up}
+	; Navigate To Top Layer
+	w::Send "{alt down}]{alt up}"
 
-; Delete selected layer
-d::Delete
+	; Navigate To Down Layer
+	s::Send "{alt down}[{alt up}"
 
-; Navigate To Top Layer
-w::send {alt down}]{alt up}
+	; Color picker
+	t::n
 
-; Navigate To Down Layer
-s::send {alt down}[{alt up}
-
-; Color picker
-t::n
-
-; Flip horizontal canvas
-v::F2
-
-#IfWinActive
+	; Flip horizontal canvas
+	v::F2
+#HotIf
